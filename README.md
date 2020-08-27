@@ -1,4 +1,6 @@
-# Medods test task: Simon says
+# Simon the game
+
+[Simon](https://en.wikipedia.org/wiki/Simon_(game)) game with Vue.js
 
 ## Usage
 
@@ -8,18 +10,8 @@
 npm i && npm start
 ```
 
-### Build dist in development mode
+### Build command
 
 ```
-npm run build:dev
+npm run build
 ```
-
-### Build dist in production mode
-
-```
-npm run build:prod
-```
-
-## Live demo
-
-[Netlify](https://priceless-kowalevski-8e7306.netlify.app/)
